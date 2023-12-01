@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Noorunnisa Sulthan</h1>
-<h3 align="center">An aspiring full stack developer residing in the UAE</h3>
+<h3 align="center">An aspiring data analyst and full stack developer residing in the UAE</h3>
 <img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
 <br>
 - 🌱 I’m currently learning **Web Development and Python**
