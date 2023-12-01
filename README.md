@@ -2,7 +2,7 @@
 <h3 align="center">An aspiring Data analyst and Full stack developer residing in the UAE</h3>
 <img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
 <br>
-- 🌱 I’m currently learning **Web Development and Python**
+- 🌱 I’m currently learning **Python, Tableau and Web Development**
 <br>
 
 <p align="left">
