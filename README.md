@@ -4,6 +4,10 @@
 <br>
 - 🌱 I’m currently learning **Python, Tableau and Web Development**
 <br>
+<br>
+- Get a sneak peek into my portfolio website: https://www.youtube.com/watch?v=Bu1puQJMg5U
+<br>
+
 
 <p align="left">
 </p>
