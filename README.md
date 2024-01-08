@@ -2,7 +2,10 @@
 <h3 align="center">An aspiring Data analyst and Full stack developer residing in the UAE</h3>
 <img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
 <br>
-- 🌱 I’m currently learning **Tableau in Datacamp, Web development in Udemy**
+- 🌱 I’m currently learning **Tableau from Datacamp, Web development from Udemy**
+<br>
+- 🌱 University modules include: ** Project Management, Business Intelligence, Information Systems and Web development and Databases**
+
 <br>
 <br>
 -Check out my project demo videos here: https://github.com/NoorunnisaSulthan/project-demos
