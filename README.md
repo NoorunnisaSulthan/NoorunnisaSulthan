@@ -20,7 +20,6 @@
 
 <h4>Most Used Languages</h4>
 
-![Python](https://img.shields.io/badge/Language-Reactjs-blue)
 ![JavaScript](https://img.shields.io/badge/Language-JavaScript-yellow)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=NoorunnisaSulthan&show_icons=true&locale=en" alt="NoorunnisaSulthan" /></p>
