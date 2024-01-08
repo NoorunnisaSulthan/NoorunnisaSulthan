@@ -5,8 +5,10 @@
 - 🌱 I’m currently learning **Python, Tableau and Web Development**
 <br>
 <br>
+-Check out my project demo videos here: https://github.com/NoorunnisaSulthan/project-demos
 - Get a sneak peek into my portfolio website: https://www.youtube.com/watch?v=Bu1puQJMg5U
 <br>
+
 
 
 <p align="left">
