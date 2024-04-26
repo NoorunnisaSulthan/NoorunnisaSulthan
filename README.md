@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Noorunnisa Sulthan</h1>
-<h3 align="center">An aspiring Data analyst and Full stack developer residing in the UAE</h3>
+<h3 align="center">Aspiring Software developer, AI and Data Enthusiast</h3>
 <img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
 <br>
-- 🌱 I’m currently learning **Tableau from Datacamp, Web development from Udemy**
+- 🌱 I’m currently learning **ASP .net from LinkedIn Learning and Tableau from Datacamp**
 <br>
 - 🌱 University modules include: ** Project Management, Business Intelligence, Information Systems and Web development and Databases**
 
@@ -10,7 +10,7 @@
 <br>
 -Check out my project demo videos here: https://github.com/NoorunnisaSulthan/project-demos
 <br>
-- Get a sneak peek into my portfolio website: https://www.youtube.com/watch?v=Bu1puQJMg5U
+- Get a sneak peek into my portfolio website: https://noorunnisas-portfolio.onrender.com/
 <br>
 
 
