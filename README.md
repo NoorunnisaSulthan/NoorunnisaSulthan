@@ -10,7 +10,6 @@
 <br>
 -Check out my project demo videos here: https://github.com/NoorunnisaSulthan/project-demos
 <br>
-- Get a sneak peek into my portfolio website: https://noorunnisas-portfolio.onrender.com/
 <br>
 
 
