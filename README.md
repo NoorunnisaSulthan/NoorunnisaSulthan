@@ -9,7 +9,9 @@
 <br>
 <br>
 - Most of my current work is on my portfolios, so feel free to visit them : 
+<br>
 -- Here's my Developer Portfolio: https://noorsdevportfolio.carrd.co/ 
+<br>
 -- My Data Portfolio: https://noorsdataportfolio.carrd.co/
 <br>
 <br>
