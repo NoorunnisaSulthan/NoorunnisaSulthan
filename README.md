@@ -1,14 +1,16 @@
 <h1 align="center">Hi 👋, I'm Noorunnisa Sulthan</h1>
-<h3 align="center">Aspiring Software developer, AI and Data Enthusiast</h3>
+<h3 align="center">Aspiring Software developer and Data Enthusiast</h3>
 <img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
 <br>
-- 🌱 I’m currently learning **ASP .net from LinkedIn Learning and Tableau from Datacamp**
+- 🌱 I’m currently learning **SQL Track from DataCamp and PHP**
 <br>
 - 🌱 University modules include: ** Project Management, Business Intelligence, Information Systems and Web development and Databases**
 
 <br>
 <br>
--Check out my project demo videos here: https://github.com/NoorunnisaSulthan/project-demos
+- Most of my current work is on my portfolios, so feel free to visit them : 
+-- Here's my Developer Portfolio: https://noorsdevportfolio.carrd.co/ 
+-- My Data Portfolio: https://noorsdataportfolio.carrd.co/
 <br>
 <br>
 
